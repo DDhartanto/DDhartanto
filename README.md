@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DDhartanto
+- 👋 Hi, I’m Dylan
 - 👀 I’m interested in finance, software engineering, and cybersecurity
 - 🌱 I’m currently learning Java.Script and C++
-- 📫 How to reach me by email or LinkedIn
+- 📫 How to reach me: by email or LinkedIn
 - ⚡ Fun fact: I am a US Air Force Cadet interested in special operations, I play division 3 golf, and workout
 
 <!---
