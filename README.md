@@ -1,5 +1,5 @@
 ##  📍Dylan Hartanto 
-![233050_1349828]([https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif](https://i.makeagif.com/media/4-29-2014/OC_xAK.gif))
+![233050_1349828](https://i.makeagif.com/media/4-29-2014/OC_xAK.gif)
 
 - 👨🏻‍💻 Heavily interested in finance, cybersecurity, and software engineering
 - 🏫 Current student studying Computer Science 
