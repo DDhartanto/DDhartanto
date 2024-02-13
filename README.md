@@ -6,7 +6,7 @@
 📍 San Diego born & raised
 ✈️ Fun fact: I am a US Air Force Cadet interested in special operations
 
-Markup :  #### Heading 4 #### What are my hobbies?
+Markup :  ## What are my hobbies? ##
 🏃 I love long-distance running and weight lifting
 🎸 I love listening to music, here are some of my favorite artists right now:
 The Weeknd, Hozier, and Lana Del Ray
