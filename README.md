@@ -1,4 +1,4 @@
-##  📍Dylan Hartanto 
+##  📎Dylan Hartanto 
 ![233050_1349828](https://i.makeagif.com/media/4-29-2014/OC_xAK.gif)
 
 - 👨🏻‍💻 Heavily interested in finance, cybersecurity, and software engineering
